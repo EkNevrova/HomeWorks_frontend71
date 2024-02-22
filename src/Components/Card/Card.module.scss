@@ -1,0 +1,85 @@
+.card_container {
+    width: 180px;
+}
+
+.tittle_selected {
+    color: rgba(255, 255, 255);
+    border-left: 0.1px solid #ffffff;
+    border-right: 0.1px solid #ffffff;
+    border-bottom: 0.1px solid #ffffff;
+    padding: 23px;
+    margin-top: -10px;
+}
+
+.tittle {
+    color: rgba(255, 255, 255);
+    border-left: 0.1px solid #ffffff;
+    border-right: 0.1px solid #ffffff;
+    border-bottom: 0.1px solid #ffffff;
+    padding: 15px;
+}
+
+.body {
+    color: rgba(255, 255, 255);
+    margin-top: 0px;   
+    display: flex; 
+    justify-content: center;
+    border-left: 0.1px solid #ffffff;
+    border-right: 0.1px solid #ffffff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.speed {
+    background-color: rgb(250, 248, 248);
+    color: rgb(150, 146, 146);
+    border: 0.5px solid #ffffff;
+    padding: 15px;
+    font-size: 0.7em;
+}
+
+.info {
+    background-color: rgb(235, 232, 232);
+    color: rgb(150, 146, 146);
+    padding: 15px;
+    border-left: 0.1px solid #ffffff;
+    border-right: 0.1px solid #ffffff;
+    font-size: 0.7em;
+}
+
+.redClass{
+    background-color: #e06464;
+}
+
+.greenClass{
+    background-color: #719e79;
+}
+
+.blueClass{
+    background-color: #76b6ca;
+}
+
+.blackClass{
+    background-color: #464545;
+}
+
+.currency{
+    font-size: 0.6em;
+    align-items: flex-start;
+    padding-top: 10px;
+}
+
+.period{
+    font-size: 0.6em;
+    align-self: flex-end;
+    padding-bottom: 12px;
+}
+
+.price{
+    font-size: 3em;
+}
+
+
+
